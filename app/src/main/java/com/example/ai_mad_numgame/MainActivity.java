@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
-// The Logic and the code for the Sumcalculator
+// The Logic and the code for the Sum-calculator
     public int sumOfScore(){
         //Computing the sum of score array, which has the 1 or in each index,depending on correct or incorrect answers
         int sum=0;
